@@ -24,7 +24,7 @@ int OP=0,X=0,y=1,sinal=0;
 
 do{
 	system("cls");
-	puts("\t CALCULADORA VERSAO 1.0 \t\n\n");
+	puts("\t CALCULADORA VERSAO 2.0 \t\n\n");
 	//Função que recebe o primeiro numero.
 	num1=RecebeNum1(y,num3);
 	num2=0;
